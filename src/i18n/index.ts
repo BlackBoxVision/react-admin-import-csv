@@ -1,5 +1,10 @@
+import englishMessages from "ra-language-english";
+import spanishMessages from "ra-language-spanish";
 
-import en from './en';
-import es from './es';
+import domainEsMessages from "./es";
+import domainEnMessages from "./en";
 
-export { en, es };
+export default {
+  es: { ...spanishMessages, ...domainEsMessages },
+  en: { ...englishMessages, ...domainEnMessages },
+};
