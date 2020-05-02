@@ -1,7 +1,7 @@
 node_modules
 dist
-lib
-esm
+# lib
+# esm
 yarn*
 coverage/*
 !coverage/badge-lines.svg
