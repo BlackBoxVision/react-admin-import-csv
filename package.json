@@ -1,6 +1,6 @@
 {
   "name": "@blackbox-vision/react-admin-import-csv",
-  "version": "0.0.0",
+  "version": "0.2.21",
   "description": "CSV import button for react-admin",
   "repository": "https://github.com/BlackBoxVision/react-admin-import-csv",
   "homepage": "https://github.com/BlackBoxVision/react-admin-import-csv",
