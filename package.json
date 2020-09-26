@@ -4,7 +4,7 @@
   "description": "CSV import button for react-admin",
   "repository": "https://github.com/BlackBoxVision/react-admin-import-csv",
   "homepage": "https://github.com/BlackBoxVision/react-admin-import-csv",
-  "author": "Ben Winding",
+  "author": "Manuel Tuero",
   "license": "MIT",
   "private": false,
   "files": [
